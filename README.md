@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Lucas Gonzalez Rouco</h1>
-<h3 align="center">💫 Estudiante de Ingeniería Informática y Desarrollador</h3><br>
+<h3 align="center">💫 Software Engineer Student and Developer</h3><br>
 
-## 🌐 Redes sociales:
+## 🌐 Social Networks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgonzalezrouco/)
 
@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-## 📊 Estadísticas:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lgonzalezrouco&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lgonzalezrouco&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgonzalezrouco&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
